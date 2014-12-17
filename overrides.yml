@@ -1,5 +1,5 @@
 overrides:
-    - tools/orogen:
-        branch: clang_integration
-    - tools/typelib:
-        branch: clang_tlb_import
+    - orogen:
+      branch: clang_integration
+    - typelib:
+      branch: clang_tlb_import
