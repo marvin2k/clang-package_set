@@ -1,5 +1,7 @@
 overrides:
     - orogen:
       branch: clang_integration
+      github: marvin2k/orogen.git
     - typelib:
       branch: clang_tlb_import
+      github: jmachowinski/typelib.git
