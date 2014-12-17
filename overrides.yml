@@ -1,9 +1,3 @@
-name: typelib_clang_test
-
-imports:
-    - github: rock-core/package_set
-    - github: rock-core/rock-package_set
-
 overrides:
     - tools/orogen:
         branch: clang_integration
