@@ -1,2 +1,2 @@
-clang-3.5:
-    debian, ubuntu: [clang-3.5, libclang-3.5-dev]
+clang-3.4:
+    debian, ubuntu: [clang-3.4, libclang-3.4-dev]
