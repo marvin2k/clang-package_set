@@ -33,7 +33,7 @@ systems are invited to add their numbers in the following table:
 | OS            | ARCH  | status           | bench clang-based              | bench vanilla | user |
 |---------------|-------|------------------|--------------------------------|---------------|------|
 | debian-jessie | amd64 | works            | User time (seconds): 3389.37   | 3234.58       |  mz  |
-| debian-wheezy | amd64 | fails            | only `clang-3.1` -- no support |               |  mz  |
+| debian-wheezy | amd64 | fails            | only `clang-3.1` -- no support | 2922.48       |  mz  |
 | ubuntu-trusty | i386  | works            | User time (seconds): 2440.00   | 2365.67       |  mz  |
 | ubuntu-trusty | amd64 | works            | User time (seconds): 2491.83   | 2292.74       |  mz  |
 
