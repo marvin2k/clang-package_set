@@ -42,6 +42,7 @@ systems are invited to add their numbers in the following table:
   from source.
 - clang-based `typelib` works for compiling, but almost all the numbers go up --
   for example the build-time increases more than two minutes... Why?
+- what additional packages have to be tested? -> add to package-set
 
 ## benchmarking:
 
